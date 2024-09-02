@@ -14,7 +14,7 @@
 
 ### COURSE UPGRADES - SAVE $ WHEN ADDING MORE COURSES
 
-### SHARED LESSONS [SHAREDALL] [ASSOCIATESHARED] etc...
+### SHARED LESSONS [ALL] [ASSOCIATE] etc...
 
 ### 🚨 READ ME 🚨 - ENABLE EMAIL UPDATES (IT'S WORTH IT)
 
@@ -48,115 +48,115 @@
 
 ## IAM, ACCOUNTS & ORGANIZATIONS
 
-### [ASSOCIATESHARED] IAM Identity Policies
+### [ASSOCIATE] IAM Identity Policies
 
-### [ASSOCIATESHARED] IAM Users and ARNs
+### [ASSOCIATE] IAM Users and ARNs
 
-### [ASSOCIATESHARED] [DEMO] Simple Identity Permissions in AWS
+### [ASSOCIATE] [DEMO] Simple Identity Permissions in AWS
 
-### [ASSOCIATESHARED] IAM Groups
+### [ASSOCIATE] IAM Groups
 
-### [ASSOCIATESHARED] [DEMO] Permissions control using IAM Groups
+### [ASSOCIATE] [DEMO] Permissions control using IAM Groups
 
-### [ASSOCIATESHARED] IAM Roles - The Tech
+### [ASSOCIATE] IAM Roles - The Tech
 
-### [ASSOCIATESHARED] When to use IAM Roles
+### [ASSOCIATE] When to use IAM Roles
 
 ### Service-linked Roles & PassRole
 
-### [ASSOCIATESHARED] AWS Organizations
+### [ASSOCIATE] AWS Organizations
 
-### [SHAREDALL] [DEMO] AWS Organizations
+### [ALL] [DEMO] AWS Organizations
 
-### [ASSOCIATESHARED] Service Control Policies (SCP)
+### [ASSOCIATE] Service Control Policies (SCP)
 
-### [SHAREDALL] [DEMO] Using Service Control Policies
+### [ALL] [DEMO] Using Service Control Policies
 
 ## CLOUDFORMATION
 
-### [ASSOCIATESHARED] CloudFormation Physical & Logical Resources
+### [ASSOCIATE] CloudFormation Physical & Logical Resources
 
-### [ASSOCIATESHARED] [DEMO] Simple Non Portable Template - PART1
+### [ASSOCIATE] [DEMO] Simple Non Portable Template - PART1
 
-### [ASSOCIATESHARED] [DEMO] Simple Non Portable Template - PART2
+### [ASSOCIATE] [DEMO] Simple Non Portable Template - PART2
 
-### [ASSOCIATESHARED] CloudFormation Template and Pseudo Parameters
+### [ASSOCIATE] CloudFormation Template and Pseudo Parameters
 
-### [ASSOCIATESHARED] CloudFormation Intrinsic Functions
+### [ASSOCIATE] CloudFormation Intrinsic Functions
 
-### [ASSOCIATESHARED] CloudFormation Mappings
+### [ASSOCIATE] CloudFormation Mappings
 
-### [ASSOCIATESHARED] CloudFormation Outputs
+### [ASSOCIATE] CloudFormation Outputs
 
-### [ASSOCIATESHARED] [DEMO] Template v2 - Portable
+### [ASSOCIATE] [DEMO] Template v2 - Portable
 
-### [ASSOCIATESHARED] CloudFormation Conditions
+### [ASSOCIATE] CloudFormation Conditions
 
-### [ASSOCIATESHARED] CloudFormation DependsOn
+### [ASSOCIATE] CloudFormation DependsOn
 
-### [ASSOCIATESHARED] CloudFormation Wait Conditions & cfn-signal
+### [ASSOCIATE] CloudFormation Wait Conditions & cfn-signal
 
-### [ASSOCIATESHARED] CloudFormation Nested Stacks
+### [ASSOCIATE] CloudFormation Nested Stacks
 
-### [ASSOCIATESHARED] CloudFormation Cross-Stack References
+### [ASSOCIATE] CloudFormation Cross-Stack References
 
-### [ASSOCIATESHARED] CloudFormation Stack Sets
+### [ASSOCIATE] CloudFormation Stack Sets
 
-### [ASSOCIATESHARED] CloudFormation Deletion Policy
+### [ASSOCIATE] CloudFormation Deletion Policy
 
-### [ASSOCIATESHARED] CloudFormation Stack Roles
+### [ASSOCIATE] CloudFormation Stack Roles
 
-### [ASSOCIATESHARED] CloudFormation Init (CFN-INIT)
+### [ASSOCIATE] CloudFormation Init (CFN-INIT)
 
-### [ASSOCIATESHARED] CloudFormation cfn-hup
+### [ASSOCIATE] CloudFormation cfn-hup
 
-### [ASSOCIATESHARED] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART1
+### [ASSOCIATE] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART1
 
-### [ASSOCIATESHARED] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART2
+### [ASSOCIATE] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART2
 
-### [ASSOCIATESHARED] CloudFormation ChangeSets
+### [ASSOCIATE] CloudFormation ChangeSets
 
-### [ASSOCIATESHARED] CloudFormation Custom Resources
+### [ASSOCIATE] CloudFormation Custom Resources
 
-### [ASSOCIATESHARED] [DEMO] CloudFormation Custom Resources-PART1
+### [ASSOCIATE] [DEMO] CloudFormation Custom Resources-PART1
 
-### [ASSOCIATESHARED] [DEMO] CloudFormation Custom Resources-PART2
+### [ASSOCIATE] [DEMO] CloudFormation Custom Resources-PART2
 
 ### [DEMO] CloudFormation Drift Detection
 
 ## ELASTIC BEANSTALK
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Architecture
+### [ASSOCIATE] Elastic Beanstalk (EB) - Architecture
 
-### [ASSOCIATESHARED] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1
+### [ASSOCIATE] [DEMO] Elastic Beanstalk (EB) - Application & Environment - PART1
 
-### [ASSOCIATESHARED] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2
+### [ASSOCIATE] [DEMO] Elastic Beanstalk (EB) - Add additional environment and config options - PART2
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Deployment Policies
+### [ASSOCIATE] Elastic Beanstalk (EB) - Deployment Policies
 
-### [ASSOCIATESHARED] [DEMO] Elastic Beanstalk (EB) - Deployment
+### [ASSOCIATE] [DEMO] Elastic Beanstalk (EB) - Deployment
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Environments and RDS
+### [ASSOCIATE] Elastic Beanstalk (EB) - Environments and RDS
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Advanced Customisation via .ebextensions
+### [ASSOCIATE] Elastic Beanstalk (EB) - Advanced Customisation via .ebextensions
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - HTTPS
+### [ASSOCIATE] Elastic Beanstalk (EB) - HTTPS
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Cloning
+### [ASSOCIATE] Elastic Beanstalk (EB) - Cloning
 
-### [ASSOCIATESHARED] Elastic Beanstalk (EB) - Docker
+### [ASSOCIATE] Elastic Beanstalk (EB) - Docker
 
-### [ASSOCIATESHARED] [DEMO] Elastic Beanstalk (EB) - Section Cleanup
+### [ASSOCIATE] [DEMO] Elastic Beanstalk (EB) - Section Cleanup
 
 ## LAMBDA, SERVERLESS & APPLICATION SERVICES
 
-### [ASSOCIATESHARED] CloudWatchEvents and EventBridge
+### [ASSOCIATE] CloudWatchEvents and EventBridge
 
-### [SHAREDALL] AWS Lambda - PART1
+### [ALL] AWS Lambda - PART1
 
-### [SHAREDALL] AWS Lambda - PART2
+### [ALL] AWS Lambda - PART2
 
-### [SHAREDALL] AWS Lambda - PART3
+### [ALL] AWS Lambda - PART3
 
 ### Lambda Handler Architecture & Overview - PART1 - Theory
 
@@ -188,7 +188,7 @@
 
 ### Lambda Resource Policy
 
-### [SHAREDALL] API Gateway 101
+### [ALL] API Gateway 101
 
 ### API Gateway - Methods and Resources
 
@@ -198,11 +198,11 @@
 
 ### Open API & Swagger
 
-### [ASSOCIATESHARED] Simple Notification Service
+### [ASSOCIATE] Simple Notification Service
 
-### [DOP-C02] [ADVDEMO] API Gateway Integrations - Mock, Lambda, AWS Service
+### [DOP-C02] [ADV-DEMO] API Gateway Integrations - Mock, Lambda, AWS Service
 
-### [ASSOCIATESHARED] Simple Queue Service
+### [ASSOCIATE] Simple Queue Service
 
 ### SQS Standard vs FIFO Queues
 
@@ -212,35 +212,35 @@
 
 ### SQS Dead-Letter Queues
 
-### [ASSOCIATESHARED] Step Functions
+### [ASSOCIATE] Step Functions
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART1
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART1
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART2
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART2
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART3
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART3
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART4
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART4
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART5
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART5
 
-### [MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART6
+### [MINI-PROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART6
 
 ## CONTAINERS, ECR, ECS, EKS
 
-### [ASSOCIATESHARED] Introduction to Containers
+### [ASSOCIATE] Introduction to Containers
 
-### [SHAREDALL] [DEMO] Creating 'container of cats' Docker Image
+### [ALL] [DEMO] Creating 'container of cats' Docker Image
 
-### [ASSOCIATESHARED] ECS - Concepts
+### [ASSOCIATE] ECS - Concepts
 
-### [ASSOCIATESHARED] ECS - Cluster Mode
+### [ASSOCIATE] ECS - Cluster Mode
 
-### [SHAREDALL] [DEMO] - Deploying 'container of cats' using Fargate [UI UPDATES IN PROGRESS]
+### [ALL] [DEMO] - Deploying 'container of cats' using Fargate [UI UPDATES IN PROGRESS]
 
-### [SHAREDALL] Kubernetes 101
+### [ALL] Kubernetes 101
 
-### [SHAREDALL] Elastic Kubernetes Service (EKS) 101
+### [ALL] Elastic Kubernetes Service (EKS) 101
 
 ## OPSWORKS
 
@@ -248,9 +248,9 @@
 
 ## Credentials and Secrets
 
-### [ASSOCIATESHARED] SSM Parameter Store
+### [ASSOCIATE] SSM Parameter Store
 
-### [ASSOCIATESHARED] Secrets Manager
+### [ASSOCIATE] Secrets Manager
 
 ## Advanced Identity and Permissions
 
@@ -270,7 +270,7 @@
 
 ### Route53 Fundamentals
 
-### [SHAREDALL] [DEMO] Registering a Domain with route53
+### [ALL] [DEMO] Registering a Domain with route53
 
 ### DNS Record Types
 
@@ -286,9 +286,9 @@
 
 ### Failover Routing
 
-### [SHAREDALL] [DEMO] Using R53 and Failover Routing-PART1
+### [ALL] [DEMO] Using R53 and Failover Routing-PART1
 
-### [SHAREDALL] [DEMO] Using R53 and Failover Routing-PART2
+### [ALL] [DEMO] Using R53 and Failover Routing-PART2
 
 ### Multi Value Routing
 
@@ -302,7 +302,7 @@
 
 ### R53 Interoperability
 
-## CODE\* SUITE - SDLC AUTOMATION
+## CODE SUITE - SDLC AUTOMATION
 
 ### [REFRESHER] CICD in AWS
 
@@ -316,21 +316,21 @@
 
 ### Elastic Container Registry (ECR) - Architecture
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE0 - INTRO
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE0 - INTRO
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE1 - CodeCommit
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE1 - CodeCommit
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE2 - Build a Docker Image w/ CodeBuild - PART1
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE2 - Build a Docker Image w/ CodeBuild - PART1
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE2 - Build a Docker Image w/ CodeBuild - PART2
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE2 - Build a Docker Image w/ CodeBuild - PART2
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE3 - Joining the dots - pipeline
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE3 - Joining the dots - pipeline
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE4 - Deploy our Container w/ CodeDeploy - PART1
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE4 - Deploy our Container w/ CodeDeploy - PART1
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE4 - Deploy our Container w/ CodeDeploy - PART2
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE4 - Deploy our Container w/ CodeDeploy - PART2
 
-### [DOP-C02] [AdvancedDemo] - CatPipeline - STAGE5 - CLEANUP
+### [DOP-C02] [ADV-DEMO] - CatPipeline - STAGE5 - CLEANUP
 
 ## MONITORING AND LOGGING
 
@@ -338,25 +338,25 @@
 
 ### CloudWatch - PART2
 
-### [ASSOCIATESHARED] [DEMO] Logging and Metrics with CloudWatch Agent-PART1
+### [ASSOCIATE] [DEMO] Logging and Metrics with CloudWatch Agent-PART1
 
-### [ASSOCIATESHARED] [DEMO] Logging and Metrics with CloudWatch Agent-PART2
+### [ASSOCIATE] [DEMO] Logging and Metrics with CloudWatch Agent-PART2
 
 ### CloudWatch Logs
 
 ### CloudTrail
 
-### [SHAREDALL] [DEMO] Implementing an Organizational Trail
+### [ALL] [DEMO] Implementing an Organizational Trail
 
 ### CloudTrail Logfile Integrity
 
 ## DATA ANALYTICS & STREAMING
 
-### [ASSOCIATESHARED] Kinesis Data Streams
+### [ASSOCIATE] Kinesis Data Streams
 
-### [ASSOCIATESHARED] Kinesis Data Firehose
+### [ASSOCIATE] Kinesis Data Firehose
 
-### [ASSOCIATESHARED] Kinesis Data Analytics
+### [ASSOCIATE] Kinesis Data Analytics
 
 ### MapReduce 101
 
@@ -398,61 +398,61 @@
 
 ## STORAGE
 
-### [ASSOCIATESHARED] Elastic Block Store (EBS) Service Architecture
+### [ASSOCIATE] Elastic Block Store (EBS) Service Architecture
 
-### [ASSOCIATESHARED] EBS Volume Types - General Purpose
+### [ASSOCIATE] EBS Volume Types - General Purpose
 
-### [ASSOCIATESHARED] EBS Volume Types - Provisioned IOPS
+### [ASSOCIATE] EBS Volume Types - Provisioned IOPS
 
-### [ASSOCIATESHARED] EBS Volume Types - HDD-Based
+### [ASSOCIATE] EBS Volume Types - HDD-Based
 
-### [ASSOCIATESHARED] Instance Store Volumes - Architecture
+### [ASSOCIATE] Instance Store Volumes - Architecture
 
-### [SHAREDALL] Storage Gateway - Volume Gateway
+### [ALL] Storage Gateway - Volume Gateway
 
-### [SHAREDALL] Storage Gateway - Tape Gateway (VTL)
+### [ALL] Storage Gateway - Tape Gateway (VTL)
 
-### [SHAREDALL] Storage Gateway - File Gateway
+### [ALL] Storage Gateway - File Gateway
 
-### [ASSOCIATESHARED] S3 Security (Resource Policies & ACLs)
+### [ASSOCIATE] S3 Security (Resource Policies & ACLs)
 
-### [ASSOCIATESHARED] S3 Static Hosting
+### [ASSOCIATE] S3 Static Hosting
 
-### [SHAREDALL] [Demo] Creating a static website with S3
+### [ALL] [Demo] Creating a static website with S3
 
-### [ASSOCIATESHARED] Object Versioning & MFA Delete
+### [ASSOCIATE] Object Versioning & MFA Delete
 
-### [SHAREDALL] [DEMO] - S3 Versioning
+### [ALL] [DEMO] - S3 Versioning
 
-### [ASSOCIATESHARED] S3 Performance Optimization
+### [ASSOCIATE] S3 Performance Optimization
 
-### [ASSOCIATESHARED] [DEMO] - S3 Performance
+### [ASSOCIATE] [DEMO] - S3 Performance
 
-### [ASSOCIATESHARED] Key Management Service (KMS)
+### [ASSOCIATE] Key Management Service (KMS)
 
-### [SHAREDALL] [DEMO] KMS - Encrypting the battleplans with KMS
+### [ALL] [DEMO] KMS - Encrypting the battleplans with KMS
 
-### [SHAREDALL] S3 Object Encryption CSE/SSE
+### [ALL] S3 Object Encryption CSE/SSE
 
-### [SHAREDALL] [DEMO] Object Encryption and Role Separation
+### [ALL] [DEMO] Object Encryption and Role Separation
 
 ### S3 Bucket Keys
 
-### [ASSOCIATESHARED] S3 Object Storage Classes - PART1
+### [ASSOCIATE] S3 Object Storage Classes - PART1
 
-### [ASSOCIATESHARED] S3 Object Storage Classes - PART2
+### [ASSOCIATE] S3 Object Storage Classes - PART2
 
-### [ASSOCIATESHARED] S3 Lifecycle Configuration
+### [ASSOCIATE] S3 Lifecycle Configuration
 
-### [202304UPDATE] [SHAREDALL] S3 Replication
+### [202304UPDATE] [ALL] S3 Replication
 
-### [SHAREDALL] [DEMO] Cross-Region Replication of an S3 Static Website
+### [ALL] [DEMO] Cross-Region Replication of an S3 Static Website
 
-### [ASSOCIATESHARED] S3 PreSigned URLs
+### [ASSOCIATE] S3 PreSigned URLs
 
-### [SHAREDALL] [DEMO] Creating and using PresignedURLs
+### [ALL] [DEMO] Creating and using PresignedURLs
 
-### [ASSOCIATESHARED] S3 Select and Glacier Select
+### [ASSOCIATE] S3 Select and Glacier Select
 
 ### Cross-origin Resource Sharing (CORS)
 
@@ -466,65 +466,65 @@
 
 ### S3 Inventory
 
-### [DOP-C02] [ADVDEMO] Multi-Region Access Points
+### [DOP-C02] [ADV-DEMO] Multi-Region Access Points
 
-### [ASSOCIATESHARED] EFS Architecture
+### [ASSOCIATE] EFS Architecture
 
-### [ASSOCIATESHARED] FSx for Windows File Server
+### [ASSOCIATE] FSx for Windows File Server
 
-### [ASSOCIATESHARED] FSx for Lustre
+### [ASSOCIATE] FSx for Lustre
 
 ## Content Delivery Network (CDN)
 
-### [SHAREDALL] CloudFront - Architecture
+### [ALL] CloudFront - Architecture
 
-### [SHAREDALL] CloudFront (CF) - Behaviours
+### [ALL] CloudFront (CF) - Behaviours
 
-### [SHAREDALL] CloudFront - TTL and Invalidations
+### [ALL] CloudFront - TTL and Invalidations
 
-### [SHAREDALL] AWS Certificate Manager (ACM)
+### [ALL] AWS Certificate Manager (ACM)
 
-### [SHAREDALL] CloudFront - SSL/TLS & SNI
+### [ALL] CloudFront - SSL/TLS & SNI
 
-### [SHAREDALL] CloudFront (CF) - Origin Types & Origin Architecture
+### [ALL] CloudFront (CF) - Origin Types & Origin Architecture
 
-### [SHAREDALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART1
+### [ALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART1
 
-### [SHAREDALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART2
+### [ALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART2
 
-### [SHAREDALL] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL
+### [ALL] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL
 
-### [SHAREDALL] CloudFront - Security - OAI & Custom Origins
+### [ALL] CloudFront - Security - OAI & Custom Origins
 
-### [SHAREDALL] CloudFront - Private Behaviours, Signed URL & Cookies
+### [ALL] CloudFront - Private Behaviours, Signed URL & Cookies
 
-### [SHAREDALL] [DEMO] CloudFront (CF) - Using Origin Access Control (OAC) (new version of OAI)
+### [ALL] [DEMO] CloudFront (CF) - Using Origin Access Control (OAC) (new version of OAI)
 
-### [SHAREDALL] CloudFront - Georestrictions
+### [ALL] CloudFront - Georestrictions
 
-### [SHAREDALL] CloudFront - Lambd@Edge
+### [ALL] CloudFront - Lambd@Edge
 
 ## DATABASE
 
-### [ASSOCIATESHARED] DynamoDB Architecture Basics
+### [ASSOCIATE] DynamoDB Architecture Basics
 
-### [ASSOCIATESHARED] DynamoDB Operations, Consistency and Performance - PART1
+### [ASSOCIATE] DynamoDB Operations, Consistency and Performance - PART1
 
-### [ASSOCIATESHARED] DynamoDB Operations, Consistency and Performance - PART2
+### [ASSOCIATE] DynamoDB Operations, Consistency and Performance - PART2
 
-### [ASSOCIATESHARED] DynamoDB Indexes (LSI and GSI)
+### [ASSOCIATE] DynamoDB Indexes (LSI and GSI)
 
-### [ASSOCIATESHARED] DynamoDB Streams and Triggers
+### [ASSOCIATE] DynamoDB Streams and Triggers
 
-### [ASSOCIATESHARED] DynamoDB Accelerator (DAX)
+### [ASSOCIATE] DynamoDB Accelerator (DAX)
 
-### [ASSOCIATESHARED] DynamoDB Global Tables
+### [ASSOCIATE] DynamoDB Global Tables
 
 ### DynamoDB Time-To-Live (TTL)
 
 ## HA, FT and DR
 
-### [ASSOCIATESHARED] High-Availability vs Fault-Tolerance vs Disaster Recovery
+### [ASSOCIATE] High-Availability vs Fault-Tolerance vs Disaster Recovery
 
 ### Types of DR - Cold, Warm, PilotLight
 
@@ -548,35 +548,35 @@
 
 ### [REFRESHER] Load Balancing Evolution
 
-### [SHAREDALL] Elastic Load Balancer Architecture - PART1
+### [ALL] Elastic Load Balancer Architecture - PART1
 
-### [SHAREDALL] Elastic Load Balancer Architecture - PART2
+### [ALL] Elastic Load Balancer Architecture - PART2
 
-### [SHAREDALL] Application Load balancing (ALB) vs Network Load Balancing (NLB)
+### [ALL] Application Load balancing (ALB) vs Network Load Balancing (NLB)
 
 ### Session State
 
 ### Session Stickiness
 
-### [SHAREDALL] [DEMO] Seeing Session Stickiness in Action
+### [ALL] [DEMO] Seeing Session Stickiness in Action
 
 ### Gateway Load Balancer (GWLB)
 
-### [AdvancedDemo] Architecture Evolution - STAGE1 - PART1
+### [ADV-DEMO] Architecture Evolution - STAGE1 - PART1
 
-### [AdvancedDemo] Architecture Evolution - STAGE1 - PART2
+### [ADV-DEMO] Architecture Evolution - STAGE1 - PART2
 
-### [AdvancedDemo] Architecture Evolution - STAGE2
+### [ADV-DEMO] Architecture Evolution - STAGE2
 
-### [AdvancedDemo] Architecture Evolution - STAGE3
+### [ADV-DEMO] Architecture Evolution - STAGE3
 
-### [AdvancedDemo] Architecture Evolution - STAGE4
+### [ADV-DEMO] Architecture Evolution - STAGE4
 
-### [AdvancedDemo] Architecture Evolution - STAGE 5 - PART1
+### [ADV-DEMO] Architecture Evolution - STAGE 5 - PART1
 
-### [AdvancedDemo] Architecture Evolution - STAGE 5 - PART2
+### [ADV-DEMO] Architecture Evolution - STAGE 5 - PART2
 
-### [AdvancedDemo] Architecture Evolution - STAGE6
+### [ADV-DEMO] Architecture Evolution - STAGE6
 
 ### Connection Draining
 
