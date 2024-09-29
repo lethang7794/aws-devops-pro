@@ -1,3 +1,9 @@
+---
+markmap:
+  initialExpandLevel: 2
+  colorFreezeLevel: 2
+---
+
 # AWS Certified DevOps Engineer - Professional (DOP-C02) - Course Curriculum
 
 ## INTRODUCTION
@@ -14,7 +20,7 @@
 
 ### COURSE UPGRADES - SAVE $ WHEN ADDING MORE COURSES
 
-### SHARED LESSONS [_ALL_] [_ASSOCIATE_] etc...
+### SHARED LESSONS [_ALL_] [_ASSOCIATE_] etc
 
 ### 🚨 READ ME 🚨 - ENABLE EMAIL UPDATES (IT'S WORTH IT)
 
@@ -502,7 +508,7 @@
 
 ### [_ALL_] CloudFront - Georestrictions
 
-### [_ALL_] CloudFront - Lambd@Edge
+### [_ALL_] CloudFront - Lambda@Edge
 
 ## DATABASE
 
@@ -599,5 +605,3 @@
 ## FINISHING UP
 
 ### Thanks & a favour
-
-### COURSE UPGRADES - SAVE $ WHEN ADDING MORE COURSES
